@@ -1,6 +1,6 @@
 ###
 
-<img align="right" height="150" src="DealtaProfile.png"/>
+<img align="right" height="150" src="https://github.com/KhnatlkDelta/.github/blob/main/profile/DealtaProfile.png?raw=true"/>
 
 ###
 <h1 align="center">Hi 👋, We're Delta Squad</h1>
