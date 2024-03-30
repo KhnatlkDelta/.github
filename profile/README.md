@@ -1,6 +1,6 @@
 ###
 
-<img align="right" height="150" src="https://scontent.fbkk29-8.fna.fbcdn.net/v/t1.15752-9/383231802_274318988893836_4985396061341795668_n.png?stp=dst-png_p100x100&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFoOqjp3sLbhj-3Gn8Xjn-2wFzmUlcnPvLAXOZSVyc-8sp4q6XSIXsZcGdOZAliPQYoDmfGSYo4h6hsOCRO8gHG&_nc_ohc=Hc11GjdJkMAAX_J-qdL&_nc_ht=scontent.fbkk29-8.fna&oh=03_AdRL0B-avzKB5gW20IjM7Kt7hA1L5iZCt_9KE_uor7zU0g&oe=662F8D87"  />
+<img align="right" height="150" src="DealtaProfile.png"/>
 
 ###
 <h1 align="center">Hi 👋, We're Delta Squad</h1>
